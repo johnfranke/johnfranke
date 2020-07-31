@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Web & Software Developer with an inherent eye for design and the technical know-how to bring it to life. Always expanding knowledge and skills.
+
+View my portfolio here: https://johnrfrankejr.com
