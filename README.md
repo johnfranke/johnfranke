@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Web & Software Developer with an inherent eye for design and the technical know-how to bring it to life. Always expanding knowledge and skills.
+Web & Software Developer with an inherent eye for design and the technical know-how to bring it to life. I'm always expanding my knowledge and skills.
 
 View my portfolio here: https://johnrfrankejr.com
