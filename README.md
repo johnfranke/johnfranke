@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 Web & Software Developer with an inherent eye for design and the technical know-how to bring it to life. I've spent the most time developing with HTML, CSS and Javascript. Then I studied and fell in love with full stack development. I'm passionate about finding solutions to problems using code.
 
 Portfolio: https://johnrfrankejr.com
+LinkedIn: https://www.linkedin.com/in/john-franke/
